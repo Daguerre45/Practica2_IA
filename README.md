@@ -3,7 +3,7 @@
 ## Como ejecutarlo
 1. Deberá descargarse el repositorio poniendo en un terminal el cual tenga la opcion de git
 ```shell
-git clone 
+git clone https://github.com/Daguerre45/Practica2_IA.git
 ```
 2. Una vez clonado deberá ejecutar lo siguiente para comprobar que funciona
 ```shell
